@@ -27,9 +27,9 @@
 
 |          开启前           |          开启后           |
 | :-----------------------: | :-----------------------: |
-| ![](Picture-Assets/1.png) | ![](Picture-Assets/2.png) |
-| ![](Picture-Assets/3.png) | ![](Picture-Assets/4.png) |
-| ![](Picture-Assets/5.png) | ![](Picture-Assets/6.png) |
+| ![](Picture-Assets/2.png) | ![](Picture-Assets/1.png) |
+| ![](Picture-Assets/4.png) | ![](Picture-Assets/3.png) |
+| ![](Picture-Assets/6.png) | ![](Picture-Assets/5.png) |
 
 ## �🚀 安装方法
 
